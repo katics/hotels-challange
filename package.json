@@ -170,6 +170,7 @@
     "husky": "^4.3.0",
     "node-sass": "^5.0.0",
     "prettier": "2.2.1",
-    "redux-devtools-extension": "^2.13.9"
+    "redux-devtools-extension": "^2.13.9",
+    "typesafe-actions": "^5.1.0"
   }
 }
