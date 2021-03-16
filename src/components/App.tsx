@@ -1,7 +1,7 @@
-import React from "react";
+import { FC } from "react";
 import "./App.scss";
 
-const App: React.FunctionComponent = () => {
+const App: FC = () => {
   return (
     <div>
       app js ucitan
